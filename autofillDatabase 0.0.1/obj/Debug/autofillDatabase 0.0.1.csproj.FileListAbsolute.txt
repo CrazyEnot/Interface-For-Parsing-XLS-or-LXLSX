@@ -1,0 +1,11 @@
+C:\Users\Gf232\source\repos\autofillDatabase 0.0.1\bin\Debug\autofillDatabase 0.0.1.exe.config
+C:\Users\Gf232\source\repos\autofillDatabase 0.0.1\bin\Debug\autofillDatabase 0.0.1.exe
+C:\Users\Gf232\source\repos\autofillDatabase 0.0.1\bin\Debug\autofillDatabase 0.0.1.pdb
+C:\Users\Gf232\source\repos\autofillDatabase 0.0.1\obj\Debug\autofillDatabase 0.0.1.csprojAssemblyReference.cache
+C:\Users\Gf232\source\repos\autofillDatabase 0.0.1\obj\Debug\autofillDatabase_0._0._1.Properties.Resources.resources
+C:\Users\Gf232\source\repos\autofillDatabase 0.0.1\obj\Debug\autofillDatabase 0.0.1.csproj.GenerateResource.cache
+C:\Users\Gf232\source\repos\autofillDatabase 0.0.1\obj\Debug\autofillDatabase 0.0.1.csproj.CoreCompileInputs.cache
+C:\Users\Gf232\source\repos\autofillDatabase 0.0.1\obj\Debug\autofillDatabase 0.0.1.exe
+C:\Users\Gf232\source\repos\autofillDatabase 0.0.1\obj\Debug\autofillDatabase 0.0.1.pdb
+C:\Users\Gf232\source\repos\autofillDatabase 0.0.1\obj\Debug\autofillDatabase_0._0._1.connectionForm.resources
+C:\Users\Gf232\source\repos\autofillDatabase 0.0.1\obj\Debug\autofillDatabase_0._0._1.enteringADocument.resources
